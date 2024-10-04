@@ -1,0 +1,35 @@
+{
+  // Конфигурация компилятора TypeScript
+  "compilerOptions": {
+    // ...конфигурация компилятора TypeScript...
+    "baseUrl": ".",
+    // Директория, куда будут помещаться скомпилированные файлы
+    "outDir": "./dist/",
+    // Генерировать ли source maps для отладки
+    "sourceMap": true,
+    // Включение строгой типизации TypeScript
+    "strict": true,
+    // Версия ECMAScript модулей, которые будут использоваться
+    "module": "ESNext",
+    // Версия ECMAScript, в которую компилируются TypeScript-файлы
+    "target": "ES2020",
+    // Поддержка JSX в TypeScript
+    "jsx": "react-jsx",
+    // Разрешить компиляцию JavaScript-файлов
+    "allowJs": true,
+    // Разрешить импорт модулей, использующих CommonJS-формат, с помощью оператора import
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "Node"
+  },
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  },
+  "include": [
+    "./src/**/*.tsx",
+    "./src/**/*.ts"
+  ]
+}
