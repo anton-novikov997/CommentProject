@@ -1,8 +1,8 @@
 <h1 align="center"> Сomments React App📝</h1>  
 <p align="center">
   
-## Это приложение комментариев созданное с использованием React, TypeScript, RTK Query, Redux Toolkit, React Window и оформленное с использованием Styled component.
-
+ Это приложение комментариев созданное с использованием React, TypeScript, RTK Query, Redux Toolkit, React Window и оформленное с использованием Styled component.
+</p>
 ## Getting started
 Чтобы это приложение работало локально, вам необходимо установить [Node.js](https://nodejs.org/en/) и [Yarn](https://yarnpkg.com/getting-started/install) на вашей машине.
 
