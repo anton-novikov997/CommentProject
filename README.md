@@ -5,7 +5,6 @@
 
 ## Это приложение погоды созданное с использованием React, TypeScript, RTK Query, Redux Toolkit, React Window и оформленное с использованием Styled component.
 
-Посмотреть живую демо-версию проекта можно здесь.: 
 ## Getting started
 Чтобы это приложение работало локально, вам необходимо установить [Node.js](https://nodejs.org/en/) и [Yarn](https://yarnpkg.com/getting-started/install) на вашей машине.
 
