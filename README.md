@@ -13,7 +13,7 @@
 Склонируйте репозиторий
 
 ```bash
-  git clone [https://link-to-project](https://github.com/anton-novikov997/CommentProject)
+  git clone (https://github.com/anton-novikov997/CommentProject)
 ```
 
 Перейдите в корень проекта
